@@ -7,7 +7,7 @@ UltraSonic SRF05 sensor module is a distance measuring tool, which works with tr
 ![SRF05][srf05]
 
 ### Get Started With SRF05
-1. first, if you are such a nerd person, go to de *Docs* directory and read the HY-SRF05-Datasheet.pdf before everything
+1. first, if you are such a nerd person, go to the *Docs* directory and read the HY-SRF05-Datasheet.pdf before everything
 2. but if not, follow the steps to set the SRF05 with Arduino
 3. connect your SRF05 wirings like below
 
