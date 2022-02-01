@@ -8,18 +8,18 @@ UltraSonic SRF05 sensor module is a distance measuring tool, which works with tr
 
 ### Get Started With SRF05
 1. first, if you are such a nerd person, go to the *Docs* directory and read the HY-SRF05-Datasheet.pdf before everything
-2. but if not, follow the steps to set the SRF05 with Arduino
+2. but if not, follow the steps to setup the SRF05 with Arduino
 3. connect your SRF05 wirings like below
 
 ![SRFWiring][srfWiring]
 
-4. go to the Codes library, download the SRF_HowToWork.ino and upload it on you arduino board.
+4. go to the *Codes* directory, download the SRF_HowToWork.ino and upload it on you arduino board.
 * make sure you reading the comments.
 
-**_now you sets the SRF up, but how does it work**_
-5. go to the Docs directory and read Application_of_ultrasonic_sensor_for_measuring_dis.pdf.
+_**now you sets up the SRF05 module, but did you get that how does it work?**_
+5. go to the *Codes* directory and read Application_of_ultrasonic_sensor_for_measuring_dis.pdf.
 * again, **READ IT**
-6. you can use the SRF_BetterUse.ino code in the Codes directory in your othe codes
+6. you can use the SRF_BetterUse.ino code in the *Codes* directory in your othe codes
 7. also you can use the [RSRF Library][srfLibrary] which is based on the codes you tested before.
 
 **good Luck**
