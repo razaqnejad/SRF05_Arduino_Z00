@@ -17,6 +17,7 @@ UltraSonic SRF05 sensor module is a distance measuring tool, which works with tr
 * make sure you reading the comments.
 
 _**now you sets up the SRF05 module, but did you get that how does it work?**_
+
 5. go to the *Codes* directory and read Application_of_ultrasonic_sensor_for_measuring_dis.pdf.
 * again, **READ IT**
 6. you can use the SRF_BetterUse.ino code in the *Codes* directory in your othe codes
